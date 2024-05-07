@@ -374,11 +374,10 @@ footer {
 
 .featured-items {
   display: grid;
-  grid-template-columns: repeat(2 1fr 2fr);
+  grid-template-columns: repeat(2 1fr);
   gap: 10px;
 }
 
 .feature-one {
   grid-column: 1/span 2;
-  /* Spanning from the first to the last column */
 }/*# sourceMappingURL=main.css.map */
